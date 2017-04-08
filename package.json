@@ -1,0 +1,22 @@
+{
+  "name": "twitchps-example-app",
+  "version": "0.1.0",
+  "description": "Example application showing how to utilize TwitchPS library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jctrvlr/twitchps_example.git"
+  },
+  "author": "John Cummings",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jctrvlr/twitchps_example/issues"
+  },
+  "homepage": "https://github.com/jctrvlr/twitchps_example#readme",
+  "dependencies": {
+    "twitchps": "^0.2.0"
+  }
+}
