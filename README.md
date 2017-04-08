@@ -1,1 +1,1 @@
-# trackerNodejs
+# TwitchPS Example Application
