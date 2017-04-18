@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/jctrvlr/twitchps_example#readme",
   "dependencies": {
-    "twitchps": "^0.3.1"
+    "twitchps": "^0.4.1"
   }
 }

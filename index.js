@@ -19,7 +19,7 @@ var ps = new TwitchPS({reconnect: false, init_topics: init_topics, debug: true})
 
 // Example of adding topics with and without tokens -- Token removed for security
 ps.addTopic([{topic: "video-playback.starladder_cs_en"}]);
-ps.addTopic([{topic: 'whispers.38290946', token: 'token'}]);
+ps.addTopic([{topic: 'whispers.38290946', token: 'nkuaf7ur3trg7ju37md1y3u5p52s3q'}]);
 
 // Examples of all types of events to listen for
 ps.on('bits', (data) => {
